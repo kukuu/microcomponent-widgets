@@ -1,2 +1,2 @@
-# Microcomponent and widgets
+# Micro-component and widgets
 JavaScript Functional Micro-components Components
